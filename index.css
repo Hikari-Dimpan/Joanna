@@ -2,6 +2,8 @@ body{
 color: aliceblue;
 background-color:black;
 }
-body {
-    font-family: Serif Bold Italic }
+.titulo-serifado {
+    font: italic bold serif;
+}
+
 
